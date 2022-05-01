@@ -7,26 +7,26 @@
 ## 🧑🏽‍💻 What am I doing?
 
 <div style="line-height: 1.15">
-    <b>National University of Computer and Emerging Sciences</b>
+    <b>📚 National University of Computer and Emerging Sciences</b>
     <p>Bachelor of Science in Computer Sciences</p>
 </div>
 
 ## 🕰 What have I done?
 
 <div style="line-height: 1.15">
-    <b>Cognni AI</b>
+    <b>🚀 Cognni AI</b>
     <p>Software Engineer, Co-Op</p>
 </div>
 <div style="line-height: 1.15">
-    <b>National University of Computer and Emerging Sciences</b>
+    <b>🧑🏽‍🏫 National University of Computer and Emerging Sciences</b>
     <p>Teaching Assistant, BS (Data Science)</p>
 </div>
 <div style="line-height: 1.15">
-    <b>Memory Maps, Inc.</b>
+    <b>🚀 Memory Maps, Inc.</b>
     <p>Software Engineer, Co-Op</p>
 </div>
 <div style="line-height: 1.15">
-    <b>IoT Research Lab, KICS, UET</b>
+    <b>🔬 IoT Research Lab, KICS, UET</b>
     <p>Research Writer</p>
 </div>
 
@@ -171,6 +171,14 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
+
+### 📈 Profile Stats
+
+<a href="http://www.github.com/saqibama"><img src="https://github-readme-stats.vercel.app/api?username=saqibama&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" width="100%" alt="saqibama's GitHub stats" /></a>
+
+<a href="http://www.github.com/saqibama"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saqibama&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" /></a>
+
+<a href="http://www.github.com/saqibama"><img src="https://activity-graph.herokuapp.com/graph?username=saqibama&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" width="100%" alt="GitHub Commits Graph" /></a>
 
 <h2 align="left">🌐 How to connect?</h2>
 <p align="left">
