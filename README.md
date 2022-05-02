@@ -18,7 +18,7 @@
     <p>Software Engineer, Co-Op</p>
 </div>
 <div style="line-height: 1.15">
-    <b>🧑🏽‍🏫 National University of Computer and Emerging Sciences</b>
+    <b>👨‍🏫 National University of Computer and Emerging Sciences</b>
     <p>Teaching Assistant, BS (Data Science)</p>
 </div>
 <div style="line-height: 1.15">
