@@ -34,9 +34,7 @@
 
 - Web, Mobile, and Desktop Application Development.
 
-- High Concurrency Web API Development.
-
-- Machine Learning & AI Models Development.
+- AI/ML Model Development.
 
 ## ⚙️ Tools & Technologies
 
