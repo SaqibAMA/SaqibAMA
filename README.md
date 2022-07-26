@@ -7,6 +7,16 @@
 ## 🧑🏽‍💻 What am I doing?
 
 <div style="line-height: 1.15">
+    <b>🔒 <a href="https://www.contract.pk/team" target="_blank">Contract.PK - Make deals online, safely and securely.</a></b>
+    <p>Co-Founder</p>
+</div>
+
+<div style="line-height: 1.15">
+    <b>🧬 Computational Biology & Research Lab - NUCES Lahore </b>
+    <p>Research Intern (Deep Learning)</p>
+</div>
+
+<div style="line-height: 1.15">
     <b>📚 National University of Computer and Emerging Sciences</b>
     <p>Bachelor of Science in Computer Sciences</p>
 </div>
