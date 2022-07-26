@@ -18,7 +18,7 @@
 
 <div style="line-height: 1.15">
     <b>📚 National University of Computer and Emerging Sciences</b>
-    <p>Bachelor of Science in Computer Sciences</p>
+    <p>BS (Computer Science)</p>
 </div>
 
 ## 🕰 What have I done?
