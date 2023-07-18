@@ -1,20 +1,17 @@
 <a href="https://github.com/saqibama"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=saqibama&style=flat-square" width="125"/></a>
 
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/saqibama/">Saqib</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/saqibama/">Saqib</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" /></h1>
 
-#### I'm a computer science student and an independent software developer based in Pakistan. I like to work on creative projects that can improve civic accountability and public policymaking through technology.
+I'm a software engineer with specialization in building computer vision applications. I like to work on impactful projects with real-world impact. Previously, I have Proven experience in building end-to-end practical products that hundreds of people have used regularly.
 
 ## 🧑🏽‍💻 What am I doing?
 
 <div style="line-height: 1.15">
-    <b>🔒 <a href="https://www.contract.pk/team" target="_blank">Contract.PK - Make deals online, safely and securely.</a></b>
-    <p>Co-Founder</p>
+    <b>🔒 <a href="#" target="_blank">Stealth Mode Startup</a></b>
+    <p>Founding Engineer</p>
 </div>
 
-<div style="line-height: 1.15">
-    <b>🧬 Computational Biology & Research Lab - NUCES Lahore </b>
-    <p>Research Intern (Deep Learning)</p>
-</div>
+## 📘 Where have I studied?
 
 <div style="line-height: 1.15">
     <b>📚 National University of Computer and Emerging Sciences</b>
@@ -22,6 +19,11 @@
 </div>
 
 ## 🕰 What have I done?
+
+<div style="line-height: 1.15">
+    <b>🧬 Computational Biology & Research Lab - NUCES Lahore </b>
+    <p>Student Researcher (Deep Learning / Computer Vision)</p>
+</div>
 
 <div style="line-height: 1.15">
     <b>🚀 Cognni AI</b>
