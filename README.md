@@ -2,12 +2,12 @@
 
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/saqibama/">Saqib</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" /></h1>
 
-I'm a software engineer with specialization in building computer vision applications. I like to work on impactful projects with real-world impact. Previously, I have Proven experience in building end-to-end practical products that hundreds of people have used regularly.
+I'm a software engineer with a specialization in building computer vision applications. I like to work on impactful projects with real-world applications. I have Proven experience in building end-to-end products that have been used by 100s of people online.
 
 ## 🧑🏽‍💻 What am I doing?
 
 <div style="line-height: 1.15">
-    <b>🔒 <a href="#" target="_blank">Stealth Mode Startup</a></b>
+    <b>🔒 <a href="https://obvio.ai" target="_blank">Obvio - AI Cameras for Traffic Safety</a></b>
     <p>Founding Engineer</p>
 </div>
 
